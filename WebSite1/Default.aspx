@@ -32,5 +32,8 @@
     <div class="row">
         My Change in DEV-2
     </div>
+    <div class="row">
+        My Change in DEV-2 Feature
+    </div>
 
 </asp:Content>
